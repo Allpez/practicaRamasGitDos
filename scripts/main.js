@@ -6,7 +6,7 @@ function renderShapeDos(page) {
         shape.className = "p-0 m-2 col-6 col-sm-4 col-md-2";
         shape.innerHTML = `
             <div class="square">
-            <p>Square</p>
+            <p>Cuadrado</p>
             </div>`;
 
         shape.addEventListener('mouseover', function () {
